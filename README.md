@@ -1,11 +1,11 @@
 # Affnan Sawad – Full Stack Developer & SQA Tester Portfolio
 
 <div align="center">
-  <br />
-  <a href="https://youtu.be/YOUR_VIDEO_ID" target="_blank">
-    <img src="[./banner.png](https://i.ibb.co.com/zh96c6qT/photo-2025-08-13-12-20-16.jpg)](https://i.ibb.co.com/zh96c6qT/photo-2025-08-13-12-20-16.jpg)" alt="Portfolio Website Banner">
+  <a href="https://ibb.co.com/PZXDpDqv" target="_blank">
+    ![Portfolio Banner](https://i.ibb.co/zh96c6qT/photo-2025-08-13-12-20-16.jpg)
   </a>
-  <br />
+</div>
+
 
 
 # Welcome to my personal portfolio, showcasing my skills, projects, and experiences as a Full Stack Developer. This portfolio reflects my journey in web development and my dedication to creating clean, responsive, and interactive digital experiences.
