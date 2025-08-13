@@ -9,7 +9,7 @@
 
 
 
-# Welcome to my personal portfolio, showcasing my skills, projects, and experiences as a Full Stack Developer. This portfolio reflects my journey in web development and my dedication to creating clean, responsive, and interactive digital experiences.
+ Welcome to my personal portfolio, showcasing my skills, projects, and experiences as a Full Stack Developer. This portfolio reflects my journey in web development and my dedication to creating clean, responsive, and interactive digital experiences. 
 
 ## 🌐 Live Demo
 
