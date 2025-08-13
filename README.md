@@ -1,10 +1,11 @@
+<div align="center">
+
 # Affnan Sawad – Full Stack Developer & SQA Tester Portfolio
 
-<div align="center">
-  <a href="https://ibb.co.com/PZXDpDqv" target="_blank">
-    ![Portfolio Banner](https://i.ibb.co/zh96c6qT/photo-2025-08-13-12-20-16.jpg)
-  </a>
+[![Portfolio Banner](https://i.ibb.co/zh96c6qT/photo-2025-08-13-12-20-16.jpg)](https://ibb.co.com/PZXDpDqv)
+
 </div>
+
 
 
 
