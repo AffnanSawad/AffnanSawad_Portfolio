@@ -1,133 +1,62 @@
-# Build a Modern Portfolio Website with React & TailwindCSS
+# Affnan Sawad – Full Stack Developer & SQA Tester Portfolio
 
 <div align="center">
   <br />
   <a href="https://youtu.be/YOUR_VIDEO_ID" target="_blank">
-    <img src="./banner.png" alt="Portfolio Website Banner">
+    <img src="[./banner.png](https://i.ibb.co.com/zh96c6qT/photo-2025-08-13-12-20-16.jpg)" alt="Portfolio Website Banner">
   </a>
   <br />
-  <div>
-    <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-    <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss" alt="Tailwind CSS" />
-    <img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-    <img src="https://img.shields.io/badge/-Lucide Icons-FD4D4D?style=for-the-badge&logo=lucide" alt="Lucide Icons" />
-    <img src="https://img.shields.io/badge/-Radix UI-9D4EDD?style=for-the-badge&logo=data:image/svg+xml;base64..." alt="Radix UI" />
-  </div>
-  <h3 align="center">Create a Stunning Developer Portfolio with Animations, Dark Mode, and Projects Showcase</h3>
-  <div align="center">
-    Follow the full video tutorial on 
-    <a href="https://youtu.be/YOUR_VIDEO_ID" target="_blank"><b>YouTube</b></a>
-  </div>
-  <br />
-</div>
 
-## 📋 Table of Contents
 
-1. [Introduction](#-introduction)
-2. [Tech Stack](#-tech-stack)
-3. [Features](#-features)
-4. [Quick Start](#-quick-start)
-5. [Screenshots](#-screenshots)
-6. [Deployment](#-deployment)
+# Welcome to my personal portfolio, showcasing my skills, projects, and experiences as a Full Stack Developer. This portfolio reflects my journey in web development and my dedication to creating clean, responsive, and interactive digital experiences.
 
----
+## 🌐 Live Demo
 
-## 🚀 Introduction
+[https://affnansawad.netlify.app/](https://affnansawad.netlify.app/)
 
-In this tutorial, you'll learn how to build a modern portfolio website using **React**, **TailwindCSS**, **Vite**, and **Lucide Icons**. From dark mode support to responsive animations and deployable project showcases, this video walks you through every step—perfect for developers looking to level up their frontend skills or apply for jobs.
+## 🛠️ Technologies & Tools
 
-🎥 Watch the full tutorial: [YouTube](https://youtu.be/YOUR_VIDEO_ID)
+* **Frontend:** HTML5, CSS3, JavaScript, React.js, TypeScript
+* **Styling & UI:** Tailwind CSS, DaisyUI, Flowbite, Framer
+* **Backend & Databases (Projects):** Node.js, Express.js, MongoDB, PostgreSQL
+* **Version Control & Deployment:** Git, GitHub, Netlify, Vercel
+* **Design & Prototyping:** Figma
 
----
+## 📂 Key Features
 
-## ⚙️ Tech Stack
+* **Responsive Design:** Fully optimized for desktop, tablet, and mobile devices
+* **Dark/Light Mode Toggle:** Seamless theme switching for better accessibility
+* **Interactive UI:** Smooth animations and transitions for engaging user experience
+* **Project Showcase:** Detailed project sections highlighting technologies used and live demos
 
-* **React** – Component-based UI development
-* **Vite** – Lightning-fast build tool
-* **TailwindCSS** – Utility-first CSS for styling
-* **Lucide Icons** – Clean and beautiful icon pack
-* **Radix UI** – Accessible component primitives
-* **TypeScript (optional)** – Type safety and tooling
-* **GitHub & Vercel** – Deployment
+## 💻 Notable Projects
 
----
+* **Car Fusion** – Car selling and service platform built with MERN stack, includes JWT authentication, Stripe payments, and user dashboards.
+* **Bistro Boss** – Restaurant website with online ordering, cart functionality, and Stripe integration.
+* **Royal Enfield Bangladesh** – Motorcycle showcase website with responsive UI and interactive design.
 
-## ⚡️ Features
+*(For more projects, visit the [Projects section](https://affnansawad.netlify.app/#projects) of the portfolio.)*
 
-* 🌑 **Light/Dark Mode Toggle**
-  Save theme preference in local storage with beautiful transitions
+## 📬 Contact & Connect
 
-* 💫 **Animated Backgrounds**
-  Stars, meteors, scroll effects, and glowing UI elements
+* **Email:** [affnan@example.com](mailto:affnan@example.com)
+* **GitHub:** [https://github.com/AffnanSawad](https://github.com/AffnanSawad)
+* **LinkedIn:** [https://www.linkedin.com/in/affnansawad](https://www.linkedin.com/in/affnansawad)
 
-* 📱 **Responsive Navigation**
-  Desktop and mobile menus with glassmorphism
+## 📄 Resume
 
-* 👨‍💻 **Hero & About Sections**
-  Showcase who you are with smooth intro animations and buttons
+Download my resume: [Resume.pdf](https://affnansawad.netlify.app/resume.pdf)
 
-* 📊 **Skills Grid**
-  Filterable progress bars and categories with animated width
+## 📝 License
 
-* 🖼️ **Projects Showcase**
-  Display screenshots, tech stacks, and GitHub/demo links
-
-* 📩 **Contact Section**
-  Social icons + responsive contact form with toast notifications
-
-* 🚀 **One-Click Deployment**
-  Easily host your site with Vercel and GitHub
+This portfolio is open-source and available under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 👌 Quick Start
+This version emphasizes:
 
-### Prerequisites
+* Professional tone suitable for recruiters or employers
+* Clear structure with sections for technologies, projects, and contact
+* Highlight of key projects with technologies and features
 
-* [Node.js](https://nodejs.org/)
-* [Git](https://git-scm.com/)
-
-### Clone and Run
-
-```bash
-git clone https://github.com/yourusername/react-tailwind-portfolio.git
-cd react-tailwind-portfolio
-npm install
-npm run dev
-```
-
-Your app will be available at: [http://localhost:5173](http://localhost:5173)
-
----
-
-## 🖼️ Screenshots
-
-> 📸 Add screenshots of your Hero section, Projects grid, and Contact form here to show off your site.
-
----
-
-## ☁️ Deployment
-
-### Deploy on Vercel
-
-1. Push your code to GitHub
-2. Go to [vercel.com](https://vercel.com)
-3. Import your repository
-4. Click **Deploy**
-
-Your live website will be hosted on a custom subdomain (e.g. `https://your-name.vercel.app`)
-
----
-
-## 🔗 Useful Links
-
-* [React Documentation](https://reactjs.org/)
-* [Tailwind CSS Docs](https://tailwindcss.com/)
-* [Lucide Icons](https://lucide.dev/)
-* [Radix UI](https://www.radix-ui.com/)
-* [Vite](https://vitejs.dev/)
-* [Vercel](https://vercel.com/)
-
----
-
-Let me know if you'd like me to generate a version with your actual GitHub repo, YouTube URL, or a banner image suggestion!
+If you want, I can also **add a “Summary & Skills” section at the top** to make it recruiter-ready and even stronger. Do you want me to do that?
