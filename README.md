@@ -3,7 +3,7 @@
 <div align="center">
   <br />
   <a href="https://youtu.be/YOUR_VIDEO_ID" target="_blank">
-    <img src="[./banner.png](https://i.ibb.co.com/zh96c6qT/photo-2025-08-13-12-20-16.jpg)" alt="Portfolio Website Banner">
+    <img src="[./banner.png](https://i.ibb.co.com/zh96c6qT/photo-2025-08-13-12-20-16.jpg)](https://i.ibb.co.com/zh96c6qT/photo-2025-08-13-12-20-16.jpg)" alt="Portfolio Website Banner">
   </a>
   <br />
 
