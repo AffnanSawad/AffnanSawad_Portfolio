@@ -40,9 +40,9 @@
 
 ## 📬 Contact & Connect
 
-* **Email:** [affnan@example.com](mailto:affnan@example.com)
+* **Email:** [affnansawad2002@gmail.com](mailto:affnansawad2002@gmail.com)
 * **GitHub:** [https://github.com/AffnanSawad](https://github.com/AffnanSawad)
-* **LinkedIn:** [https://www.linkedin.com/in/affnansawad](https://www.linkedin.com/in/affnansawad)
+
 
 ## 📄 Resume
 
@@ -54,10 +54,4 @@ This portfolio is open-source and available under the MIT License. See the [LICE
 
 ---
 
-This version emphasizes:
 
-* Professional tone suitable for recruiters or employers
-* Clear structure with sections for technologies, projects, and contact
-* Highlight of key projects with technologies and features
-
-If you want, I can also **add a “Summary & Skills” section at the top** to make it recruiter-ready and even stronger. Do you want me to do that?
